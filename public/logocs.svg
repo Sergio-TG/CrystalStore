@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 21" width="156" height="21">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image  width="156" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAAAVAQMAAACJyRUeAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAOSURBVHicY2AYBUMSAAABuQAB+1jikgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 19px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Text layer 1" style="transform: matrix(1,0,0,1,13,15)" >
+		<tspan x="0" y="0" class="t0">C</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">y</tspan><tspan  y="0" class="t0">s</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">l</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>

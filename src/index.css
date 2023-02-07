@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Quintessential&family=Roboto:wght@300&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: rgba(6, 180, 180, 0.547);
+  position: sticky;
+  top: 0;
+  padding: 10px 30px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  -webkit-box-shadow: 0px 0px 15px 0px #6b1a64;
+  box-shadow: 0px 0px 15px 0px #5a0211;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+}
+
+#logo {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#botonera ul li {
+  list-style: none;
+  margin-right: 20px;
+  justify-content: center;
+}
+
+#botonera ul li a {
+  font-size: 1rem;
+  text-decoration: none;
+  color: #4b4a4c;
+}
+
+#botonera ul li a:hover {
+  color: rgb(202, 85, 12);
+  font-weight: 600;
+
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 1.2;
+}
+
+span  {
+  font-size: 1em;
+  line-height: 1.2;
+}
